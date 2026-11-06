@@ -1,0 +1,29 @@
+# 缓存与工具目录
+.cache/
+.claude/
+node_modules/
+.python/
+__pycache__/
+
+# 渲染产物（成片放在 GitHub Releases）
+*.mp4
+*.mov
+*.webm
+
+# 版权音频与歌词（请自行准备）
+*.mp3
+*.flac
+*.wav
+*.m4a
+*.aac
+*.ogg
+*.lrc
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本项目的中间产物
+exports/
+backups/
